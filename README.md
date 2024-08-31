@@ -61,7 +61,7 @@
 <!-- Ferramentas -->
 
 <div align="center">
-    <img src="tools.png" width="230"/><b>
+    <img src="tools.png" width="200"/><b>
 </div>
 <br> 
 
