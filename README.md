@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <h4><font color="gray" face="Century">Dev</font></h4>
+  <h4><font color="gray" face="Century">Studying Systems Analysis and Development at FATEC and improving my knowledge in Software Engineering</font></h4>
 </div>
 
 #
@@ -27,21 +27,41 @@
     <img src="rabinho.png" width="400"/><b>
 </div>
 
-<p align="center">
-    <a>
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" style="width: 60px; height: 63px; margin-right: 6px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" style="width: 55px; margin-bottom: 0px; margin-left: -3;"/><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="81" style="width: 81pxpx;; margin-bottom: 0px; margin-right: -8; margin-left: -3"/>
-    </a>
-    <a>
-        <img width = "195"src = https://skillicons.dev/icons?i=dotnet,html,c,md&theme=light />
-    </a>
-</p>
+<br>
+
+<table align="center">
+
+  <tr>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=java&theme=dark" width="50" height="50" alt="java" />
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50" alt="py" />
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=cs&theme=light" width="50" height="50" alt="c#" />
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".net" />
+    </td>
+     <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=md&theme=light" width="50" height="50" alt="markdown" />
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=c&theme=light" width="50" height="50" alt="c" />
+    </td>
+</tr>
+</table>
 
 #
 
 <!-- Ferramentas -->
 
 <div align="center">
-    <img src="tools.png" width="250"/><b>
+    <img src="tools.png" width="230"/><b>
 </div>
 <br> 
 
