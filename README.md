@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <h4><font color="gray" face="Century">Studying Systems Analysis and Development at FATEC and improving my knowledge in Software Engineering</font></h4>
+  <h4><font color="gray" face="Century"> </font></h4>
 </div>
 
 #
