@@ -15,8 +15,8 @@
 
 </div>
 
-<div style="text-align:center">
-    <h4 style="color:gray; font-family: 'Cursive';"> Desenvolvedora e triste. </h4>
+<div align="center">
+  <h4><font color="gray" face="Century">Desenvolvedora e triste.</font></h4>
 </div>
 
 ---
