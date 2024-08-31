@@ -1,7 +1,7 @@
 
 <p align="center">
     <a>
-        <img width="40%" src = cute.gif >
+        <img width="50%" src = cute.gif >
     <br><br>
     <img src="https://readme-typing-svg.demolab.com?font=Century&size=60&duration=2800&pause=2000&color=74679b&center=true&vCenter=true&width=940&height=80&lines=Lia's+GitHub" align="middle" alt="Lia">
 </p>
@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <h4><font color="gray" face="Century">Desenvolvedora e triste.</font></h4>
+  <h4><font color="gray" face="Century">Dev</font></h4>
 </div>
 
 #
@@ -36,7 +36,7 @@
     </a>
 </p>
 
----
+#
 
 <!-- Ferramentas -->
 
