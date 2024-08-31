@@ -24,7 +24,7 @@
 <!-- Tecnologias -->
 
 <div align="center">
-    <img src="rabinho.png" width="400"/><b>
+    <img src="tech.png" width="400"/><b>
 </div>
 
 <br>
