@@ -1,7 +1,6 @@
-
 <p align="center">
     <a>
-        <img width="40%" src = cutec.gif ><img width="40%" src = cutec.gif >
+        <img width="60%" src = dancinha.gif >
     <br><br>
     <img src="https://readme-typing-svg.demolab.com?font=Century&size=60&duration=2800&pause=2000&color=74679b&center=true&vCenter=true&width=940&height=80&lines=Lia's+GitHub" align="middle" alt="Lia">
 </p>
@@ -16,7 +15,7 @@
 </div>
 
 <div align="center">
-  <h4><font color="gray" face="Century"> </font></h4>
+  <h4><font color="" face="Century"> </font></h4>
 </div>
 
 #
@@ -24,7 +23,7 @@
 <!-- Tecnologias -->
 
 <div align="center">
-    <img src="tech.png" width="400"/><b>
+    <img src="lalala.png" width="300"/><b>
 </div>
 
 <br>
@@ -61,7 +60,7 @@
 <!-- Ferramentas -->
 
 <div align="center">
-    <img src="tools.png" width="200"/><b>
+    <img src="tutu.png" width="300"/><b>
 </div>
 <br> 
 
@@ -70,5 +69,3 @@
     <img width = "600"src = https://skillicons.dev/icons?i=git,pycharm,idea,rider,eclipse,linux,bun,vscode,notion,nodejs,figma,postman&theme=light />
   </a>
 </p>
-
-
