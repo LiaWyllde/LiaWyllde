@@ -28,32 +28,14 @@
 
 <br>
 
-<table align="center">
-
-  <tr>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=java&theme=dark" width="50" height="50" alt="java" />
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50" alt="py" />
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=cs&theme=light" width="50" height="50" alt="c#" />
-    </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".net" />
-    </td>
-     <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=md&theme=light" width="50" height="50" alt="markdown" />
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=c&theme=light" width="50" height="50" alt="c" />
-    </td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java&theme=light" height="40" alt="java" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="py" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs&theme=light" height="40" alt="c#" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=c&theme=light" height="40" alt="c" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=md&theme=light" height="40" alt="markdown" />&nbsp;
+</div>
 
 #
 
@@ -66,6 +48,6 @@
 
 <p align="center"style="aling:center" width="81" style="width: 70px; height: 81px; margin-right: 6px; margin-bottom: 0px;">
   <a href="https://skillicons.dev">
-    <img width = "600"src = https://skillicons.dev/icons?i=git,pycharm,idea,rider,eclipse,linux,bun,vscode,notion,nodejs,figma,postman&theme=light />
+    <img width = "300"src = https://skillicons.dev/icons?i=git,figma,bun,linux,eclipse,postman,notion,pycharm,idea,rider,nodejs,vscode&theme=light&perline=6 />
   </a>
 </p>
