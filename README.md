@@ -23,7 +23,7 @@
 <!-- Tecnologias -->
 
 <div align="center">
-    <img src="lalala.png" width="300"/><b>
+    <img src="uns.png" width="500"/><b>
 </div>
 
 <br>
@@ -42,7 +42,7 @@
 <!-- Ferramentas -->
 
 <div align="center">
-    <img src="tutu.png" width="300"/><b>
+    <img src="dia.png" width="500"/><b>
 </div>
 <br> 
 
